@@ -183,6 +183,20 @@
         "rollup",
         "webpack"
       ]
+    },
+    "overrides": {
+      "@vue/compiler-core": "3.3.0-alpha.4",
+      "@vue/compiler-dom": "3.3.0-alpha.4",
+      "@vue/compiler-sfc": "3.3.0-alpha.4",
+      "@vue/compiler-ssr": "3.3.0-alpha.4",
+      "@vue/reactivity": "3.3.0-alpha.4",
+      "@vue/reactivity-transform": "3.3.0-alpha.4",
+      "@vue/runtime-core": "3.3.0-alpha.4",
+      "@vue/runtime-dom": "3.3.0-alpha.4",
+      "@vue/server-renderer": "3.3.0-alpha.4",
+      "@vue/shared": "3.3.0-alpha.4",
+      "vue": "3.3.0-alpha.4",
+      "@vue/compat": "3.3.0-alpha.4"
     }
   }
 }
